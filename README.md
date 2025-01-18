@@ -1,1 +1,2 @@
-# MangoDB
+# MangoDB 
+some basics of mangoDB
